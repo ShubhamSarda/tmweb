@@ -20,7 +20,6 @@ DEBUG = env('DJANGO_DEBUG')
 
 ALLOWED_HOSTS = env('DJANGO_HOSTS')
 
-
 # Application definition
 
 INSTALLED_APPS = [
